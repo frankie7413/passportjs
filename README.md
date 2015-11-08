@@ -7,23 +7,23 @@ from this tutorial</p>
 
 ####Run npm to install modules
 
-``python
+```python
 npm install
 ```
 
 ####Run mongo to have a database to save users
 
-``python
+```python
 mongod --dbpath /Users/franktosh/Desktop/passportjs/SecureLogin/data
 ```
 ###Finally run server.js 
 
-``python
+```python
 node server.js
 ```
 
 ####Open browsers at:
 
-``python
+```python
 localhost:8080
 ```
